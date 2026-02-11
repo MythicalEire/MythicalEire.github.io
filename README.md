@@ -6,6 +6,14 @@ I bridge the gap between complex technical products and user success.
 
 Currently at **Mastercard**, specializing in docs for **DevOps, APIs, and self-service enablement**.
 
+## 📍 Quick Links
+
+* [🛠️ Tools](#tools)
+* [📂 Product Docs](#product-docs)
+* [🎨 Content Design](#content-design)
+* [🧠 Strategy and Enablement](#strategy-and-enablement)
+* [🕹️ Gamified Learning](#gamified-learning)
+
 ## 🛠️ Tools
 
 - **Languages:** Markdown, HTML, SQL, Python (FastAPI)
@@ -14,16 +22,25 @@ Currently at **Mastercard**, specializing in docs for **DevOps, APIs, and self-s
 
 ## 📂 Product Docs
 
+> [!NOTE]
+> These samples are exported PDF versions of documentation hosted on a developer portal. The live environment used a **Static Site Generator (SSG)** to manage global styling, theming, and navigation; these versions have been converted to focus specifically on the content structure and technical accuracy.
+
 ### [Spacewalk - Oracle Linux Manager](./assets/spacewalk.pdf)
+[![Spacewalk Preview](./images/spacewalk.png)](./assets/spacewalk.pdf)
+
 *Guidance for engineering teams on systems management. This content was created to ensure consistent environment configuration across the organization.*
 
 ### [HashiCorp Vault - Overview](./assets/hashicorp-vault.pdf)
+[![HashiCorp Preview](./images/hashicorp-vault.png)](./assets/hashicorp-vault.pdf)
+
 *This snippet is from a product landing page. The full document includes detailed information on APIs, use cases with mermaid diagrams, tutorials and guides, integration mechanisms, and support specifically tailored for internal engineering teams.*
 
 ### [SoftCo - Admin User Guide](./assets/admin-user-guide.pdf)
+[![SoftCo Preview](./images/softco.png)](./assets/admin-user-guide.pdf)
+
 *This document was one of the first comprehensive product guides I created in 2019, aimed at non-technical enterprise users. It was developed using a CMS before the organization adopted a docs-as-code approach.*
 
-## 🎨 Content Design 
+## 🎨 Content Design
 
 ### [Engineering Platform - Overview](./assets/platform-overview.pdf)
 *This diagram illustrates the key components of a product engineering platform designed for developers. Comprehensive user documentation, including onboarding instructions and how-to guides for each application, was created from scratch.*
@@ -36,6 +53,9 @@ Currently at **Mastercard**, specializing in docs for **DevOps, APIs, and self-s
 
 ## 🧠 Strategy and Enablement
 
+> [!IMPORTANT]
+> The following materials were developed for **internal enablement and thought leadership**. Designed for a peer-to-peer audience of engineers and product managers, the tone and formatting prioritize information density and internal knowledge-sharing over the high-polish aesthetic of end-user guides.
+
 ### [Knowledge Orchestration with Copilot](./assets/knowledge-orchestration-copilot.pdf)
 *A deep dive into how to orchestrate an end-to-end content workflow with Copilot.*
 
@@ -43,10 +63,12 @@ Currently at **Mastercard**, specializing in docs for **DevOps, APIs, and self-s
 *This training was developed for tech writers, engineers, and product managers to help them contribute to a global knowledge hub. As this was intended for an internal audience, most links are not accessible externally. 
 The content was designed to be informal and engaging.*
 
-## 🕹️ Gamified Learning  
+## 🕹️ Gamified Learning 
 
 ### [Crypto Invaders](https://view.genially.com/66700292a6e99700148f136e/interactive-content-crypto-invaders)
 *A beginner's guide to learning the fundamentals of cryptocurrency.*
 
 ### [Applied AI in Fintech](https://view.genially.com/66713fd5aa1c3700144ff511/interactive-content-applied-ai)
-*A beginner's guide to learning the fundamentals of AAI in Fintech.*
+*A beginner's guide to learning the fundamentals of AAI in Fintech.*    
+
+[↑ Back to Top](#fiona-keegan--technical-writer--content-strategist)
