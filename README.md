@@ -8,11 +8,11 @@ Currently at **Mastercard**, specializing in docs for **DevOps, APIs, and self-s
 
 ## 📍 Quick Links
 
-* [🛠️ Tools](#tools)
-* [📂 Product Docs](#product-docs)
-* [🎨 Content Design](#content-design)
-* [🧠 Strategy and Enablement](#strategy-and-enablement)
-* [🕹️ Gamified Learning](#gamified-learning)
+* [Tools](#tools)
+* [Product Docs](#product-docs)
+* [Content Design](#content-design)
+* [Strategy and Enablement](#strategy-and-enablement)
+* [Gamified Learning](#gamified-learning)
 
 ## 🛠️ Tools
 
@@ -22,8 +22,9 @@ Currently at **Mastercard**, specializing in docs for **DevOps, APIs, and self-s
 
 ## 📂 Product Docs
 
-> [!NOTE]
-> These samples are exported PDF versions of documentation hosted on a developer portal. The live environment used a **Static Site Generator (SSG)** to manage global styling, theming, and navigation; these versions have been converted to focus specifically on the content structure and technical accuracy.
+<div style="padding: 15px; border: 1px solid #0969da; border-left: 5px solid #0969da; background-color: #f6f8fa; border-radius: 6px;">
+<strong>Note:</strong> These samples are exported PDF versions of documentation hosted on a developer portal. The live environment used a <strong>Static Site Generator (SSG)</strong> to manage styling; these versions are converted to focus on content and structure.
+</div>
 
 ### [Spacewalk - Oracle Linux Manager](./assets/spacewalk.pdf)
 [![Spacewalk Preview](./images/spacewalk.png)](./assets/spacewalk.pdf)
@@ -53,8 +54,9 @@ Currently at **Mastercard**, specializing in docs for **DevOps, APIs, and self-s
 
 ## 🧠 Strategy and Enablement
 
-> [!IMPORTANT]
-> The following materials were developed for **internal enablement and thought leadership**. Designed for a peer-to-peer audience of engineers and product managers, the tone and formatting prioritize information density and internal knowledge-sharing over the high-polish aesthetic of end-user guides.
+<div style="padding: 15px; border: 1px solid #d1242f; border-left: 5px solid #d1242f; background-color: #fff5f5; border-radius: 6px;">
+<strong>Important:</strong> These materials were developed for <strong>internal enablement</strong>. The tone and formatting prioritize information density and internal knowledge-sharing over the high-polish aesthetic of end-user guides.
+</div>
 
 ### [Knowledge Orchestration with Copilot](./assets/knowledge-orchestration-copilot.pdf)
 *A deep dive into how to orchestrate an end-to-end content workflow with Copilot.*
