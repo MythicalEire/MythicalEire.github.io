@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Fiona Keegan | Technical Writer and Content Strategist
 
 I turn complexity into clarity.
@@ -73,4 +75,4 @@ The content was designed to be informal and engaging.*
 ### [Applied AI in Fintech](https://view.genially.com/66713fd5aa1c3700144ff511/interactive-content-applied-ai)
 *A beginner's guide to learning the fundamentals of AAI in Fintech.*    
 
-[↑ Back to Top](#fiona-keegan--technical-writer--content-strategist)
+[↑ Back to top](#top)
