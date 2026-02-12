@@ -12,8 +12,9 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 * [🛠️ Tools](#tools)
 * [📂 Product Docs](#product-docs)
-* [🎨 Content Design](#content-design)
+* [🚀 Prototypes](#prototypes)
 * [🧠 Strategy and Enablement](#strategy)
+* [🎨 Content Design](#content-design)
 * [🕹️ Gamified Learning](#gamified)
 * [🔗 LinkedIn Profile](https://www.linkedin.com/in/fiona-keegan-b51538150/)
 
@@ -59,6 +60,17 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 *This document was one of the first comprehensive product guides I created in 2019, aimed at non-technical enterprise users. It was developed using a CMS before the organization adopted a docs-as-code approach.*
 
+## <a name="prototypes"></a> 🚀 Prototypes
+
+<div style="padding: 15px; border: 1px solid #0969da; border-left: 5px solid #0969da; background-color: #f6f8fa; border-radius: 6px;">
+<strong>Note:</strong> First load may take between <strong>30 and 60 seconds</strong>.
+</div>
+
+### [Prototypes - APIs](https://open-finance-prototypes.onrender.com/docs)
+[![Prototypes Preview](./images/api-ui.png)](https://open-finance-prototypes.onrender.com/docs)
+
+*These API prototypes were built to explore FastAPI and modern Python development practices. They demonstrate two emerging fintech concepts: AI agent authorization with spending guardrails, and real-time ESG transaction enrichment. The project showcases RESTful API design, OpenAPI documentation, and gateway routing patterns.*
+
 ## <a name="strategy"></a> 🧠 Strategy and Enablement
 
 <div style="padding: 15px; border: 1px solid #d1242f; border-left: 5px solid #d1242f; background-color: #fff5f5; border-radius: 6px;">
@@ -103,8 +115,8 @@ The content was designed to be informal and engaging.*
 *A beginner's guide to learning the fundamentals of cryptocurrency.*
 
 ### [Applied AI in Fintech](https://view.genially.com/66713fd5aa1c3700144ff511/interactive-content-applied-ai)
-[![Applied AI  Preview](./images/applied-ai.png)](https://view.genially.com/66713fd5aa1c3700144ff511/interactive-content-applied-ai)
+[![Applied AI Preview](./images/applied-ai.png)](https://view.genially.com/66713fd5aa1c3700144ff511/interactive-content-applied-ai)
 
-*A beginner's guide to learning the fundamentals of AAI in Fintech.*    
+*A beginner's guide to learning the fundamentals of Applied AI in Fintech.*    
 
 [↑ Back to top](#top) | [🔗 LinkedIn Profile](https://www.linkedin.com/in/fiona-keegan-b51538150/)
