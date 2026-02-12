@@ -10,6 +10,7 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 ## 📍 Quick Links
 
+* [📊 Impact](#impact)
 * [🛠️ Tools](#tools)
 * [📂 Product Docs](#product-docs)
 * [🚀 Prototypes](#prototypes)
@@ -17,6 +18,16 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 * [🎨 Content Design](#content-design)
 * [🕹️ Gamified Learning](#gamified)
 * [🔗 LinkedIn Profile](https://www.linkedin.com/in/fiona-keegan-b51538150/)
+
+## <a name="impact"></a> 📊 Impact
+
+- Led documentation strategy for an internal developer platform serving **5000+ engineers**.
+- Established content governance framework and review processes, **reducing publication cycles by ~40%**.
+- Created technical writing enablement training supporting **50+ contributors** across multiple teams.
+- Mentored **1 junior and 2 mid-level technical writers** on documentation best practices and modern tooling.
+- Drove **docs-as-code adoption**, migrating legacy content to modern SSG infrastructure for **100+ products**.
+- Empowered developers to self-serve, **improving onboarding time and reducing support requests by ~35%**.
+
 
 ## <a name="tools"></a> 🛠️ Tools
 
