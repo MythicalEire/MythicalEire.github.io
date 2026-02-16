@@ -2,6 +2,8 @@
 
 # Fiona Keegan | Technical Writer and Content Strategist
 
+*Enterprise documentation systems | Developer experience | AI‑ready knowledge architecture*
+ 
 **Turning complexity into clarity.**
 
 I bridge complex technical products and user success through clear, scalable documentation.
@@ -21,25 +23,28 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 ## <a name="impact"></a> 📊 Impact
 
-- Led documentation strategy for an internal developer platform serving **5000+ engineers**.
-- Established content governance framework and review processes, **reducing publication cycles by ~40%**.
-- Created technical writing enablement training supporting **50+ contributors** across multiple teams.
+- Led documentation strategy for an internal developer platform serving **5,000+ engineers**.
+- Designed structured content for an LLM-driven knowledge system, **improving search accuracy by ~65%** and **reducing repeated support requests by ~40%**.
+- Created technical writing enablement training supporting **25+ contributors** across multiple teams.
 - Mentored **1 junior and 2 mid-level technical writers** on documentation best practices and modern tooling.
-- Drove **docs-as-code adoption**, migrating legacy content to modern SSG infrastructure for **100+ products**.
-- Empowered developers to self-serve, **improving onboarding time and reducing support requests by ~35%**.
-
+- Drove **docs-as-code adoption**, migrating legacy content to modern infrastructure for **100+ products**.
 
 ## <a name="tools"></a> 🛠️ Tools
 
 - **Languages:** Markdown, HTML, SQL, Python (FastAPI)
 - **Tools:** GitHub, GitHub Copilot, Hugo, Power BI, VS Code, Azure DevOps, Jira, Figma
-- **Specialties:** Developer user guides, content as infrastructure 
+- **Specialties:** Developer user guides, documentation as infrastructure, knowledge architecture 
 
 ## <a name="product-docs"></a> 📂 Product Docs
 
 <div style="padding: 15px; border: 1px solid #0969da; border-left: 5px solid #0969da; background-color: #f6f8fa; border-radius: 6px;">
 <strong>Note:</strong> These samples are exported PDF versions of documentation hosted on a developer portal. The live environment used a <strong>Static Site Generator (SSG)</strong> to manage styling; these versions are converted to focus on content and structure.
 </div>
+
+### [Product Onboarding Assistant - Overview](./assets/poa.pdf)
+[![POA Preview](./images/poa.png)](./assets/poa.pdf)
+
+*Overview of the Product Onboarding Assistant, a generative AI solution that delivers fast, accurate, and contextual answers to streamline product onboarding and integration.*
 
 ### [Apache Cassandra - Overview](./assets/apache-cassandra.pdf)
 [![Apache Cassandra Preview](./images/apache-cassandra.png)](./assets/apache-cassandra.pdf)
@@ -56,20 +61,20 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 *Overview of an enterprise data analytics platform that enables scalable analysis of large transaction datasets to support business insights and decision‑making.*
 
+### [HashiCorp Vault - Overview](./assets/hashicorp-vault.pdf)
+[![HashiCorp Preview](./images/hashicorp-vault.png)](./assets/hashicorp-vault.pdf)
+
+*This snippet is from a product landing page. The full document includes detailed information on APIs, use cases with Mermaid diagrams, tutorials and guides, integration mechanisms, and support specifically tailored for internal engineering teams.*
+
 ### [Spacewalk - Oracle Linux Manager](./assets/spacewalk.pdf)
 [![Spacewalk Preview](./images/spacewalk.png)](./assets/spacewalk.pdf)
 
 *Guidance for engineering teams on systems management. This content was created to ensure consistent environment configuration across the organization.*
 
-### [HashiCorp Vault - Overview](./assets/hashicorp-vault.pdf)
-[![HashiCorp Preview](./images/hashicorp-vault.png)](./assets/hashicorp-vault.pdf)
-
-*This snippet is from a product landing page. The full document includes detailed information on APIs, use cases with mermaid diagrams, tutorials and guides, integration mechanisms, and support specifically tailored for internal engineering teams.*
-
 ### [SoftCo - Admin User Guide](./assets/admin-user-guide.pdf)
 [![SoftCo Preview](./images/softco.png)](./assets/admin-user-guide.pdf)
 
-*This document was one of the first comprehensive product guides I created in 2019, aimed at non-technical enterprise users. It was developed using a CMS before the organization adopted a docs-as-code approach.*
+*This was one of the first comprehensive product guides I authored for SoftCo in 2019, aimed at non-technical enterprise users. It was developed using a CMS before the organization adopted a docs-as-code approach.*
 
 ## <a name="prototypes"></a> 🚀 Prototypes
 
