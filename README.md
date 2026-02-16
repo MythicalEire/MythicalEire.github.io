@@ -25,8 +25,8 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 - Led documentation strategy for an internal developer platform serving **5,000+ engineers**.
 - Designed structured content for an LLM-driven knowledge system:
-    - **Improved search accuracy by ~65%**
-    - **Reduced repeated support requests by ~40%**
+    - **Improved search accuracy by ~65%** (through semantic chunking and metadata optimization)
+    - **Reduced repeated support requests by ~40%** (by providing accurate self-service answers)
 - Drove **docs-as-code adoption**, migrating legacy content to modern infrastructure for **100+ products**.
 - Created technical writing enablement training supporting **25+ contributors** across multiple teams.
 - Mentored **1 junior and 2 mid-level technical writers** on documentation best practices and modern tooling.
@@ -46,37 +46,37 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 ### [Product Onboarding Assistant - Overview](./assets/poa.pdf)
 [![POA Preview](./images/poa.png)](./assets/poa.pdf)
 
-*Overview of the Product Onboarding Assistant, a generative AI solution that delivers fast, accurate, and contextual answers to streamline product onboarding and integration.*
-
-### [Apache Cassandra - Overview](./assets/apache-cassandra.pdf)
-[![Apache Cassandra Preview](./images/apache-cassandra.png)](./assets/apache-cassandra.pdf)
-
-*Overview of Apache Cassandra that delivers a highly scalable, distributed NoSQL data store with tunable consistency for high‑availability, multi‑region applications.*
-
-### [My Data - Overview](./assets/my-data.pdf)
-[![My Data Preview](./images/my-data.png)](./assets/my-data.pdf)
-
-*Overview of a customer‑facing privacy platform that enables individuals to securely exercise their data rights while supporting global data protection compliance.*
+*End-to-end documentation for an LLM-powered onboarding assistant using RAG and vector search. Created comprehensive guides covering system architecture, AI components (embeddings, retrieval, fine-tuning), human-in-the-loop workflows, and multi-role usage patterns. Includes architecture diagrams, conceptual AI explanations, and practical tutorials for product and engineering teams.*
 
 ### [Data Platform - Overview](./assets/big-data-cluster.pdf)
 [![Data Platform Preview](./images/big-data-cluster.png)](./assets/big-data-cluster.pdf)
 
-*Overview of an enterprise data analytics platform that enables scalable analysis of large transaction datasets to support business insights and decision‑making.*
+*Infrastructure documentation for an enterprise Hadoop cluster platform. Created end-to-end guides for engineering teams covering cluster access, Impala shell commands, query optimization, and troubleshooting workflows. Documented distributed storage architecture, data pipeline operations, and performance tuning for large-scale analytics workloads.*
+
+### [Apache Cassandra - Overview](./assets/apache-cassandra.pdf)
+[![Apache Cassandra Preview](./images/apache-cassandra.png)](./assets/apache-cassandra.pdf)
+
+*Technical overview and operational guides for Apache Cassandra distributed database. Documented NoSQL architecture, tunable consistency models, multi-region replication, and high-availability patterns for platform engineering teams.*
 
 ### [HashiCorp Vault - Overview](./assets/hashicorp-vault.pdf)
 [![HashiCorp Preview](./images/hashicorp-vault.png)](./assets/hashicorp-vault.pdf)
 
-*This snippet is from a product landing page. The full document includes detailed information on APIs, use cases with Mermaid diagrams, tutorials and guides, integration mechanisms, and support specifically tailored for engineering teams.*
+*Comprehensive documentation for HashiCorp Vault secrets management platform. Created API guides, integration tutorials, use case diagrams (Mermaid), and architectural documentation for internal engineering teams securing credentials and sensitive data across applications.*
+
+### [My Data - Overview](./assets/my-data.pdf)
+[![My Data Preview](./images/my-data.png)](./assets/my-data.pdf)
+
+*Product overview and user documentation for a customer-facing privacy platform. Documented data rights workflows, privacy request handling, consent management, and compliance features supporting GDPR and global data protection regulations. Created for internal teams managing privacy operations.*
 
 ### [Spacewalk - Oracle Linux Manager](./assets/spacewalk.pdf)
 [![Spacewalk Preview](./images/spacewalk.png)](./assets/spacewalk.pdf)
 
-*Guidance for engineering teams on systems management. This content was created to ensure consistent environment configuration across the organization.*
+*Systems management documentation for Oracle Linux environments. Created operational guides for engineering teams covering server provisioning, patch management, configuration standardization, and environment consistency across the organization's infrastructure.*
 
 ### [SoftCo - Admin User Guide](./assets/admin-user-guide.pdf)
 [![SoftCo Preview](./images/softco.png)](./assets/admin-user-guide.pdf)
 
-*This was one of the first comprehensive product guides I authored for SoftCo in 2019, aimed at non-technical enterprise users. It was developed using a CMS before the organization adopted a docs-as-code approach.*
+*Comprehensive admin guide for a Procure-to-Pay SaaS platform. Documented system configuration, user management, workflow administration, and troubleshooting for enterprise admin users. Created using a CMS workflow prior to transitioning to docs-as-code approach.*
 
 ## <a name="prototypes"></a> 🚀 Prototypes
 
@@ -115,15 +115,15 @@ The content was designed to be informal and engaging.*
 
 ### [Engineering Platform - Overview](./assets/platform-overview.pdf)
 
-*This diagram illustrates the key components of a product engineering platform designed for developers. Comprehensive user documentation, including onboarding instructions and how-to guides for each application, was created from scratch.*
+*Architecture diagram illustrating a product engineering platform and its components. Created comprehensive onboarding documentation and how-to guides for each platform application for internal developer teams.*
 
 ### [SoftCo - Website Copy](./assets/ux-copy-p2p.pdf)
 
-*Samples of content I created for a product website to provide an overview of a Procure-to-Pay SaaS platform. The sample includes detailed information on the platform, highlighting its features, benefits, and value proposition.*
+*Website content and product overviews for a Procure-to-Pay SaaS platform. Created feature descriptions, value propositions, and user-facing copy to support product marketing and customer education.*
 
 ### [SoftCo - UI Text](./assets/ui-text-p2p.pdf)
 
-*Comprehensive UI string development. I focused on reducing user friction by standardizing navigation, tooltips, and error messaging across the platform.*
+*UI copy and microcopy for a Procure-to-Pay platform. Standardized navigation labels, tooltips, error messages, and in-app guidance to reduce user friction and improve consistency across the application.*
 
 ## <a name="gamified"></a> 🕹️ Gamified Learning
 
