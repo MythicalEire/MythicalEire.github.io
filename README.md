@@ -2,8 +2,8 @@
 
 # Fiona Keegan | Technical Writer and Content Strategist
 
-*Enterprise documentation systems | Developer experience | AI‑ready knowledge architecture*
- 
+*Enterprise documentation systems • Developer experience • AI‑ready knowledge architecture*
+
 **Turning complexity into clarity.**
 
 I bridge complex technical products and user success through clear, scalable documentation.
@@ -24,10 +24,12 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 ## <a name="impact"></a> 📊 Impact
 
 - Led documentation strategy for an internal developer platform serving **5,000+ engineers**.
-- Designed structured content for an LLM-driven knowledge system, **improving search accuracy by ~65%** and **reducing repeated support requests by ~40%**.
+- Designed structured content for an LLM-driven knowledge system:
+    - **Improved search accuracy by ~65%**
+    - **Reduced repeated support requests by ~40%**
+- Drove **docs-as-code adoption**, migrating legacy content to modern infrastructure for **100+ products**.
 - Created technical writing enablement training supporting **25+ contributors** across multiple teams.
 - Mentored **1 junior and 2 mid-level technical writers** on documentation best practices and modern tooling.
-- Drove **docs-as-code adoption**, migrating legacy content to modern infrastructure for **100+ products**.
 
 ## <a name="tools"></a> 🛠️ Tools
 
@@ -64,7 +66,7 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 ### [HashiCorp Vault - Overview](./assets/hashicorp-vault.pdf)
 [![HashiCorp Preview](./images/hashicorp-vault.png)](./assets/hashicorp-vault.pdf)
 
-*This snippet is from a product landing page. The full document includes detailed information on APIs, use cases with Mermaid diagrams, tutorials and guides, integration mechanisms, and support specifically tailored for internal engineering teams.*
+*This snippet is from a product landing page. The full document includes detailed information on APIs, use cases with Mermaid diagrams, tutorials and guides, integration mechanisms, and support specifically tailored for engineering teams.*
 
 ### [Spacewalk - Oracle Linux Manager](./assets/spacewalk.pdf)
 [![Spacewalk Preview](./images/spacewalk.png)](./assets/spacewalk.pdf)
