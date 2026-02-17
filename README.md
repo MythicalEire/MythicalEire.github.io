@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# Fiona Keegan | Technical Writer and Content Strategist
+# Fiona Keegan | Technical Writer | Content Strategist
 
 *Enterprise documentation systems • Developer experience • AI‑ready knowledge architecture*
 
