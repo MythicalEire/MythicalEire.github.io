@@ -25,8 +25,8 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 - Led documentation strategy for an internal developer platform serving **5,000+ engineers**.
 - Designed structured content for an LLM-driven knowledge system:
-    - **Improved search accuracy by ~65%** (through semantic chunking and metadata optimization)
-    - **Reduced repeated support requests by ~40%** (by providing accurate self-service answers)
+    - **Improved search accuracy by ~65%** through semantic chunking and metadata optimization.
+    - **Reduced repeated support requests by ~40%** through accurate self‑service content.
 - Drove **docs-as-code adoption**, migrating legacy content to modern infrastructure for **100+ products**.
 - Created technical writing enablement training supporting **25+ contributors** across multiple teams.
 - Mentored **1 junior and 2 mid-level technical writers** on documentation best practices and modern tooling.
