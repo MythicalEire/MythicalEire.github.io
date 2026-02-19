@@ -35,7 +35,7 @@ Currently at Mastercard, specializing in content for **DevOps, APIs, and self-se
 
 - **Languages:** Markdown, HTML, SQL, Python (FastAPI)
 - **Tools:** GitHub, GitHub Copilot, Hugo, Power BI, VS Code, Azure DevOps, Jira, Figma
-- **Specialties:** Developer content, documentation as infrastructure, knowledge architecture 
+- **Specialties:** Developer content, content as infrastructure, knowledge architecture 
 
 ## <a name="product-docs"></a> 📂 Product Docs
 
@@ -112,7 +112,7 @@ Currently at Mastercard, specializing in content for **DevOps, APIs, and self-se
 ### [Scaling AI Readiness with Knowledge Architecture](./assets/scaling-ai-readiness-knowledge-architecture.pdf)
 [![Knowledge Architecture Preview](./images/scaling-ai-readiness-knowledge-architecture.png)](./assets/scaling-ai-readiness-knowledge-architecture.pdf)
 
-*Technical vision outlining how Knowledge Architecture transforms documentation into AI‑ready infrastructure to improve accuracy, velocity, and governance.*
+*Technical vision outlining how Knowledge Architecture transforms content into AI‑ready infrastructure to improve accuracy, velocity, and governance.*
 
 ### [Knowledge Orchestration with Copilot](./assets/knowledge-orchestration-copilot.pdf)
 [![Knowledge Orchestration Preview](./images/knowledge-orchestration-copilot.png)](./assets/knowledge-orchestration-copilot.pdf)
