@@ -2,40 +2,40 @@
 
 # Fiona Keegan | Technical Writer | Content Strategist
 
-*Enterprise documentation systems • Developer experience • AI‑ready knowledge architecture*
+*Enterprise systems • Developer experience • AI‑ready knowledge architecture*
 
 **Turning complexity into clarity.**
 
-I bridge complex technical products and user success through clear, scalable documentation.
+I bridge complex technical products and user success through clear, scalable content.
 
-Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-service enablement**.
+Currently at Mastercard, specializing in content for **DevOps, APIs, and self-service enablement**.
 
 ## 📍 Quick Links
 
 * [📊 Impact](#impact)
 * [🛠️ Tools](#tools)
 * [📂 Product Docs](#product-docs)
+* [🎨 Content Design](#content-design)
 * [🚀 Prototypes](#prototypes)
 * [🧠 Strategy and Enablement](#strategy)
-* [🎨 Content Design](#content-design)
 * [🕹️ Gamified Learning](#gamified)
 * [🔗 LinkedIn Profile](https://www.linkedin.com/in/fiona-keegan-b51538150/)
 
 ## <a name="impact"></a> 📊 Impact
 
-- Led documentation strategy for an internal developer platform serving **5,000+ engineers**.
+- Led content strategy for an internal developer platform serving **5,000+ engineers**.
 - Designed structured content for an LLM-driven knowledge system:
     - **Improved search accuracy by ~65%** through semantic chunking and metadata optimization.
     - **Reduced repeated support requests by ~40%** through accurate self‑service content.
 - Drove **docs-as-code adoption**, migrating legacy content to modern infrastructure for **100+ products**.
-- Created technical writing enablement training supporting **25+ contributors** across multiple teams.
-- Mentored **1 junior and 2 mid-level technical writers** on documentation best practices and modern tooling.
+- Created content enablement training supporting **25+ contributors** across multiple teams.
+- Mentored **1 junior and 2 mid-level content strategists** on best practices and modern tooling.
 
 ## <a name="tools"></a> 🛠️ Tools
 
 - **Languages:** Markdown, HTML, SQL, Python (FastAPI)
 - **Tools:** GitHub, GitHub Copilot, Hugo, Power BI, VS Code, Azure DevOps, Jira, Figma
-- **Specialties:** Developer user guides, documentation as infrastructure, knowledge architecture 
+- **Specialties:** Developer content, documentation as infrastructure, knowledge architecture 
 
 ## <a name="product-docs"></a> 📂 Product Docs
 
@@ -78,6 +78,20 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 *Comprehensive admin guide for a Procure-to-Pay SaaS platform. Documented system configuration, user management, workflow administration, and troubleshooting for enterprise admin users. Created using a CMS workflow prior to transitioning to docs-as-code approach.*
 
+## <a name="content-design"></a> 🎨 Content Design
+
+### [Engineering Platform - Overview](./assets/platform-overview.pdf)
+
+*Architecture diagram illustrating a product engineering platform and its components. Created comprehensive onboarding documentation and how-to guides for each platform application for internal developer teams.*
+
+### [SoftCo - Website Copy](./assets/ux-copy-p2p.pdf)
+
+*Website content and product overviews for a Procure-to-Pay SaaS platform. Created feature descriptions, value propositions, and user-facing copy to support product marketing and customer education.*
+
+### [SoftCo - UI Text](./assets/ui-text-p2p.pdf)
+
+*UI copy and microcopy for a Procure-to-Pay platform. Standardized navigation labels, tooltips, error messages, and in-app guidance to reduce user friction and improve consistency across the application.*
+
 ## <a name="prototypes"></a> 🚀 Prototypes
 
 <div style="padding: 15px; border: 1px solid #0969da; border-left: 5px solid #0969da; background-color: #f6f8fa; border-radius: 6px;">
@@ -110,20 +124,6 @@ Currently at Mastercard, specializing in docs for **DevOps, APIs, and self-servi
 
 *This training was developed for tech writers, engineers, and product managers to help them contribute to a global knowledge hub. As this was intended for an internal audience, most links are not accessible externally. 
 The content was designed to be informal and engaging.*
-
-## <a name="content-design"></a> 🎨 Content Design
-
-### [Engineering Platform - Overview](./assets/platform-overview.pdf)
-
-*Architecture diagram illustrating a product engineering platform and its components. Created comprehensive onboarding documentation and how-to guides for each platform application for internal developer teams.*
-
-### [SoftCo - Website Copy](./assets/ux-copy-p2p.pdf)
-
-*Website content and product overviews for a Procure-to-Pay SaaS platform. Created feature descriptions, value propositions, and user-facing copy to support product marketing and customer education.*
-
-### [SoftCo - UI Text](./assets/ui-text-p2p.pdf)
-
-*UI copy and microcopy for a Procure-to-Pay platform. Standardized navigation labels, tooltips, error messages, and in-app guidance to reduce user friction and improve consistency across the application.*
 
 ## <a name="gamified"></a> 🕹️ Gamified Learning
 
